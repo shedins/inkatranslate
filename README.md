@@ -26,7 +26,7 @@ Tradutor automático de jogos Ren'Py / Visual Novels com suporte a **8 provedore
 
 ## 📸 Capturas de tela
 
-> _Adicione aqui prints da interface principal, aba de glossário, language_dict, etc._
+![Texto Alternativo](https://i.imgur.com/TEjoxoUl.jpg)
 
 ---
 
