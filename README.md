@@ -37,7 +37,7 @@ Tradutor automático de jogos Ren'Py / Visual Novels com suporte a **8 provedore
 1. Baixe a última versão em **[Releases](https://github.com/shedins/inkatranslate/releases)**
 2. Extraia o `.zip` em qualquer pasta
 3. Clique duas vezes em **`INKA-Tradutor.exe`**
-4. O navegador abre em `http://localhost:5000`
+
 
 ### Opção 2 — Código-fonte (Python 3.10+)
 
